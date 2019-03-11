@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/tzhaojustdoit/catkin_ws/devel/include",
+                "/opt/ros/melodic/include",
+                "/home/tzhaojustdoit/catkin_ws/src/AutoNav/an_controller/include",
+                "/home/tzhaojustdoit/catkin_ws/src/AutoNav/an_map_manager/include",
+                "/home/tzhaojustdoit/catkin_ws/src/AutoNav/an_obstacles/include",
+                "/home/tzhaojustdoit/catkin_ws/src/student1819009/Project3/an_static_planner/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

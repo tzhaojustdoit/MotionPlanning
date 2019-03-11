@@ -1,0 +1,22 @@
+20
+20
+x x x x x x x x x x x x x x x x x x x x
+x _ _ _ x _ x _ x _ x _ _ _ _ _ x _ x _
+x _ x _ x _ x _ x _ x g x _ x _ x _ x _
+x _ x x x _ x _ _ _ x x x _ x _ x _ x _
+x _ x _ x _ x _ _ _ x _ x _ x _ x _ x _
+_ _ x _ x _ x x x _ x _ x _ x _ x _ x _
+x _ _ _ x _ x _ x _ x _ x _ x _ x _ x _
+x _ x _ x _ x _ x _ x _ _ _ x _ x _ x _
+x _ x _ x _ _ _ x _ x _ x _ x _ x _ x _
+x _ x _ x _ _ _ x _ x _ x _ x _ x _ x _
+x _ x _ x _ x _ x _ x _ _ _ x x x _ x _
+x _ x _ x _ x _ x _ _ _	x _ x _ x _ x _
+x _ x _ x _ x _ x _ x _ x _ x _ x _ x _
+x _ _ _ x _ x _ x _ x _ x _ x _ x _ x _
+x _ _ _ x _ _ _ x _ x _ x _ _ _ x _ x _
+x _ x _ _ _ _ _ x _ x _ x _ x _ x _ x _
+x _ x _ x _ x x x _ x _ x _ x _ x _ x _
+x _ x s x _ x _ _ _ x _ x _ x _ _ _ x _
+_ _ x _ x _ _ _ x _ x _ x _ x _ x _ x _
+x x x _ x x x x x x x x x x x x x x x x
