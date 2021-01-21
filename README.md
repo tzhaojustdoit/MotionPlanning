@@ -1,4 +1,4 @@
-# Trajectory-Planning-for-Highway
-Motion Planning and Decision Making for Self-driving Cars training camp organized by RobotWits
+# Motion Planning
+Motion Planning and Decision Making for Self-driving Cars.
 
 Source code for ROS planner nodes
